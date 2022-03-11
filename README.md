@@ -1,4 +1,4 @@
-# Minesweeper
+# 💣Minesweeper💣
 A very simple version of the popular ***Minesweeper*** game that is written by ***C++***</br> 
 Using ***CLUI*** library --> [link](https://github.com/SBU-CE/clui)</br>
 ## Set up
